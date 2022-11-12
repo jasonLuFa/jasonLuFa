@@ -1,4 +1,9 @@
-### Hi there 👋
+# <h1 align="center">Hi I'm JasonLuFa 👋</h1> 
+
+
+![Jason's github stats](https://github-readme-stats.vercel.app/api?username=jasonLu)
+
+
 
 <!--
 **jasonLuFa/jasonLuFa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
