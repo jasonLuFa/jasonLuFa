@@ -1,7 +1,8 @@
 # <h1 align="center">Hi I'm JasonLuFa 👋</h1> 
 
+![Jason's github stats](https://github-readme-stats.vercel.app/api?username=jasonLuFa&theme=dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jasonLuFa&layout=compact&theme=dark)
 
-![Jason's github stats](https://github-readme-stats.vercel.app/api?username=jasonLu)
 
 
 
